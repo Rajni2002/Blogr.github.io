@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/Rajni2002/Blogr.github.io/tree/main/images)
 
 ### Links
 
