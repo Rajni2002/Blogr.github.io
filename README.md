@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/Rajni2002/Blogr.github.io/tree/main/images)
+![](https://github.com/Rajni2002/Blogr.github.io/blob/main/images/Screenshot%202021-10-10%20at%204.20.54%20PM.png)
 
 ### Links
 
